@@ -12,11 +12,11 @@ let showText = false; // Toggle for text visibility
 
 // Coin values and colors
 const coinTypes = [
-  { value: 0.01, color: [139, 69, 19], size: 19, name: "penny" },     // bronze
-  { value: 0.05, color: [192, 192, 192], size: 21, name: "nickel" },  // silver
-  { value: 0.10, color: [192, 192, 192], size: 18, name: "dime" },    // silver
-  { value: 0.25, color: [192, 192, 192], size: 24, name: "quarter" }, // silver
-  { value: 1.00, color: [255, 215, 0], size: 27, name: "dollar" },    // gold
+  { value: 0.01, color: [139, 69, 19], size: 38, name: "penny" },     // bronze
+  { value: 0.05, color: [192, 192, 192], size: 42, name: "nickel" },  // silver
+  { value: 0.10, color: [192, 192, 192], size: 36, name: "dime" },    // silver
+  { value: 0.25, color: [192, 192, 192], size: 49, name: "quarter" }, // silver
+  { value: 1.00, color: [255, 215, 0], size: 53, name: "dollar" },    // gold
 ];
 
 function setup() {
