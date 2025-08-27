@@ -1,10 +1,14 @@
-# Virtual Piggy Bank 🪙
+# Coinfall 🪙
 
 A fun p5.js app that simulates a virtual piggy bank where coins fall from the sky based on your hourly wage!
 
 ## How to Run
 
-1. Simply open `index.html` in your web browser
+https://philosyang.com/coinfall/ (thanks Github Pages)
+
+or
+
+1. open `index.html` in your web browser
 2. Enter your hourly wage in dollars
 3. Click "Start" to watch coins fall
 4. Click anywhere to toggle stats display
